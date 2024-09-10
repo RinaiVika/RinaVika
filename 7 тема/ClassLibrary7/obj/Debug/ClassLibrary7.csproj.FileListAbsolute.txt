@@ -1,0 +1,12 @@
+D:\7 тема\ClassLibrary7\bin\Debug\ClassLibrary7.dll
+D:\7 тема\ClassLibrary7\bin\Debug\ClassLibrary7.pdb
+D:\7 тема\ClassLibrary7\obj\Debug\ClassLibrary7.csproj.AssemblyReference.cache
+D:\7 тема\ClassLibrary7\obj\Debug\ClassLibrary7.csproj.CoreCompileInputs.cache
+D:\7 тема\ClassLibrary7\obj\Debug\ClassLibrary7.dll
+D:\7 тема\ClassLibrary7\obj\Debug\ClassLibrary7.pdb
+E:\7 тема\ClassLibrary7\bin\Debug\ClassLibrary7.dll
+E:\7 тема\ClassLibrary7\bin\Debug\ClassLibrary7.pdb
+E:\7 тема\ClassLibrary7\obj\Debug\ClassLibrary7.csprojAssemblyReference.cache
+E:\7 тема\ClassLibrary7\obj\Debug\ClassLibrary7.csproj.CoreCompileInputs.cache
+E:\7 тема\ClassLibrary7\obj\Debug\ClassLibrary7.dll
+E:\7 тема\ClassLibrary7\obj\Debug\ClassLibrary7.pdb
