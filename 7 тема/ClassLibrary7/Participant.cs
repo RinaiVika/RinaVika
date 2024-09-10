@@ -1,4 +1,4 @@
-﻿//Вика и Ринааа
+﻿//Антон и Ваня друзья
 using System;
 using System.Collections.Generic;
 using System.IO;
