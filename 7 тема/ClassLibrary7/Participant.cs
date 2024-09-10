@@ -1,4 +1,4 @@
-﻿//Вика и Ринааа
+﻿//Hbyf Dbrf
 using System;
 using System.Collections.Generic;
 using System.IO;
